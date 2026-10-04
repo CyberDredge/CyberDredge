@@ -1,32 +1,24 @@
 # Richard Daniel Roman Jr.
 
-**Founder, ROOT Dev Labs | Investigation Mentor, Makwa Global | OSINT | Investigative Technology | Cybersecurity | AI-Assisted Software Development**
+**Founder, ROOT Dev Labs | Investigation Mentor | OSINT | Investigative Technology | Cybersecurity | AI-Assisted Software Development**
 
 **Leland, North Carolina**
 
-I am a law-enforcement, security, and investigative-technology professional with more than 20 years of experience supporting investigative, tactical, and security programs in the United States and internationally.
+I am a law-enforcement, security, and investigative-technology professional with more than 20 years of experience supporting investigative, tactical, security, and training programs in the United States and internationally.
 
-My current work focuses on **OSINT, investigative technology, cybersecurity, AI-assisted software development, and practical SaaS tools for investigative and operational workflows**.
+My current technical work focuses on **OSINT, investigative technology, cybersecurity, secure software development, and AI-assisted engineering**.
 
 ## ROOT Dev Labs
 
-I founded **ROOT Dev Labs** to develop practical software for investigative, security, and small-business workflows.
+I founded **ROOT Dev Labs** to develop practical, security-focused software informed by real investigative and operational workflows.
 
-Current development areas include:
+My primary development project is the **ROOT OSINT Platform**, a secure investigative-support application focused on lawful public-data research, structured investigative workflows, evidence integrity, auditability, access control, analysis, and professional reporting.
 
-- OSINT and investigative workflow platforms
-- AI-assisted investigative tools
-- Cybersecurity and exposure-monitoring applications
-- Structured research and reporting workflows
-- Case, subject, lead, and evidence-management concepts
-- Secure SaaS applications and workflow automation
-- Human-in-the-loop AI integration
-
-My primary investigative platform is being developed around lawful public-data research, evidence integrity, auditability, access control, structured analysis, and investigator reporting.
+The primary application repository and implementation details remain private while development continues.
 
 ## Technical Focus
 
-### AI & Development
+**Development & AI**
 - OpenAI / ChatGPT / Codex
 - Anthropic Claude / Claude Code
 - GitHub Copilot
@@ -35,41 +27,39 @@ My primary investigative platform is being developed around lawful public-data r
 - Bash
 - APIs
 
-### Infrastructure & Security
+**Infrastructure & Security**
 - Git / GitHub
 - Docker
 - Linux
-- Parrot Security OS
-- Kali Linux
-- Web application security testing
 - CI/CD security workflows
+- Web application security testing
+- Secure application architecture
 
-### Investigative Technology
+**Investigative Technology**
 - OSINT
 - Investigative workflow design
 - Structured data collection and analysis
 - Evidence integrity and auditability
-- AI-assisted research and analysis
+- Human-in-the-loop AI
 - Security-focused application design
 
 ## Professional Background
 
 My technical work builds on more than two decades of operational experience in **law enforcement, investigations, security, crisis response, and international law-enforcement training**.
 
-I currently serve as an **Investigation Mentor with Makwa Global**, supporting partner-nation investigative capability development. My previous work includes U.S. domestic law enforcement and extensive international work supporting U.S. Department of State Antiterrorism Assistance (ATA) and SPEAR programs.
+I currently serve as an **Investigation Mentor with Makwa Global**, supporting investigative capability development. My previous experience includes U.S. domestic law enforcement and extensive international work supporting U.S. Department of State Antiterrorism Assistance and SPEAR programs.
 
-That operational background informs how I design investigative technology: tools should support the operator, preserve accountability, and improve workflow without replacing professional judgment.
+That operational background shapes how I approach technology: software should support the operator, preserve accountability, protect sensitive information, and improve workflow without replacing professional judgment.
 
-## Current Projects
+## Featured Project
 
-### ROOT Dev Labs OSINT Platform
-A secure investigative-support platform designed around lawful public-data OSINT collection, structured case workflows, evidence integrity, auditability, analysis, and investigator reporting.
+### ROOT OSINT Platform
 
-### Cybersecurity & Exposure Monitoring
-Development and research involving defensive exposure monitoring, cybersecurity workflows, public-data analysis, and practical risk identification.
+A secure investigative workflow platform being developed for lawful OSINT research, structured case management, evidence handling, analysis, auditability, and reporting.
 
-### Security Research
-Continuing hands-on development in web application security, Burp Suite, access-control testing, vulnerability research, and authorized bug-bounty environments.
+**Current status:** Active development and private-beta preparation.
+
+Selected architecture, development methodology, and sanitized project examples will be presented publicly while the primary source repository remains private.
 
 ## Connect
 
@@ -78,5 +68,4 @@ Continuing hands-on development in web application security, Burp Suite, access-
 ---
 
 **Richard Daniel Roman Jr.**  
-Founder, **ROOT Dev Labs**  
-Leland, North Carolina
+Founder, **ROOT Dev Labs**
